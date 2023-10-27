@@ -1,0 +1,18 @@
+[
+    {
+        "image" : "https://m.media-amazon.com/images/I/61ruD5Uk7cS._AC_UY218_.jpg",
+        "title" : "Technical Analysis Simplified!",
+        "author" : "Sunil Gurjar (Chartmojo)",
+        "price" : "310"
+    },{
+        "image" : "https://m.media-amazon.com/images/I/61VAtRuPgYL._AC_UY218_.jpg",
+        "title" : "THE POWER OF YOUR SUBCONSCIOUS MIND",
+        "author" : "Joseph Murphy",
+        "price" : "120"
+    },{
+        "image" : "https://m.media-amazon.com/images/I/81qKj4K2UZL._AC_UY218_.jpg",
+        "title" : "Rich Dad Poor Dad Book",
+        "author" : "Robert Kiyosaki and Sharon Lechter",
+        "price" : "200"
+    }
+  ]

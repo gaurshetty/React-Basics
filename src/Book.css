@@ -1,0 +1,29 @@
+.book{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #fdd;
+    border-radius: 5px;
+    padding: 10px;
+}
+.book-img{
+    flex: 0 0 100px;
+    margin-right: 20px;
+}
+.book-img img {
+    display: block;
+    max-width: 200px;
+    height: auto;
+}
+.book-info {
+    flex: 1;
+}
+.book-author {
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+.book-price {
+    font-size: 25px;
+    font-weight: 700;
+}
